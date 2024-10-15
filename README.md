@@ -9,7 +9,7 @@
 ###
 
 <h4 align="left">- 💯 Aprendi sair do zero em Power BI e criei 4 Dashboards em 4 dias<br>
-<h3> align="left">Abaixo você pode acessa-los: 🛜</h3><br>
+<h3 align="left">Abaixo você pode acessa-los: 🛜</h3><br>
   
 <a href="https://app.powerbi.com/links/5PzuSTog1T?ctid=052af0ce-b4ac-4490-8afc-4410a409442e&pbi_source=linkShare" target="_blank" rel="noopener noreferrer">
   - 📊 Projeto 1 - Dashboard de Vendas<br>
